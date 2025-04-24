@@ -142,7 +142,7 @@ Below are the code files for the Django app, including views for object detectio
 ```
 https://github.com/AhmedMostafa3m/detection_segmentation/blob/326d12e3528fff1ed105ed63ce3c812013fe674c/object_segmentation/object_segmentation/settings.py
 ```
-![image alt](https://github.com/AhmedMostafa3m/detection_segmentation/blob/326d12e3528fff1ed105ed63ce3c812013fe674c/object_segmentation/object_segmentation/settings.py)object_segmentation/settings.py
+![object_segmentation/settings.py](https://github.com/AhmedMostafa3m/detection_segmentation/blob/326d12e3528fff1ed105ed63ce3c812013fe674c/object_segmentation/object_segmentation/settings.py)
 
 2. **Define URLs**:
    - Edit `object_segmentation/urls.py` to route requests to the `detector` app:
