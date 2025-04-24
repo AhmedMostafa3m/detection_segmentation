@@ -144,19 +144,11 @@ Below are the code files for the Django app, including views for object detectio
 2. **Define URLs**:
    - Edit `object_segmentation/urls.py` to route requests to the `detector` app:
 
-![object_segmentation/urls.py]()
+![object_segmentation/urls.py](https://github.com/AhmedMostafa3m/detection_segmentation/blob/4ee65fc285ca365b7cc6c8b9162257fc1cea2739/object_segmentation/object_segmentation/urls.py)
 
 3. **Create App URLs**:
    - Create `detector/urls.py` to define routes for detection and segmentation:
-
-```pythonfrom django.urls import path
-from . import views
-
-urlpatterns = [
-    path('', views.index, name='index'),
-    path('detection/', views.detection, name='detection'),
-    path('segmentation/', views.segmentation, name='segmentation'),
-]```
+![detector/urls.py]()
 
 4. **Implement Views**:
    - Edit `detector/views.py` to handle image uploads, process images with DETR and Mask R-CNN, and render results:
