@@ -139,21 +139,12 @@ Below are the code files for the Django app, including views for object detectio
    - Configure static files, media uploads, and allowed hosts for Heroku.
    - Edit `object_segmentation/settings.py`:
 
-```
-https://github.com/AhmedMostafa3m/detection_segmentation/blob/326d12e3528fff1ed105ed63ce3c812013fe674c/object_segmentation/object_segmentation/settings.py
-```
 ![object_segmentation/settings.py](https://github.com/AhmedMostafa3m/detection_segmentation/blob/326d12e3528fff1ed105ed63ce3c812013fe674c/object_segmentation/object_segmentation/settings.py)
 
 2. **Define URLs**:
    - Edit `object_segmentation/urls.py` to route requests to the `detector` app:
 
-```pythonfrom django.contrib import admin
-from django.urls import path, include
-
-urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', include('detector.urls')),
-]```
+![object_segmentation/urls.py]()
 
 3. **Create App URLs**:
    - Create `detector/urls.py` to define routes for detection and segmentation:
