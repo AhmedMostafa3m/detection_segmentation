@@ -202,5 +202,31 @@ Below are the code files for the Django app, including views for object detectio
      - Upload an image in the segmentation page (`/segmentation`) to see masks.
    - If you encounter errors (e.g., template not found), double-check file placement in `detector/templates/` and `detector/static/`.
 
+### **the home page look like that :**
 
+![tape image](https://github.com/AhmedMostafa3m/django_Detection_segmentation/blob/91ff02163733d64e19e0386f1e495654bdc51f0e/Images/Screenshot%202025-04-25%20113840.png)
+
+### **the detction page look like that :**
+
+![tape image](https://github.com/AhmedMostafa3m/django_Detection_segmentation/blob/91ff02163733d64e19e0386f1e495654bdc51f0e/Images/Screenshot%202025-04-25%20113947.png)
+
+### **the original Image :**
+
+![tape image](https://github.com/AhmedMostafa3m/django_Detection_segmentation/blob/91ff02163733d64e19e0386f1e495654bdc51f0e/Images/dog.jpeg)
+
+### **the processed Image :**
+
+![tape image](https://github.com/AhmedMostafa3m/django_Detection_segmentation/blob/02f80cd0d836ad22e4ae0194711a03f2eadc6da2/Images/processed_dog.jpeg)
+
+### **the segmentation page look like that :**
+
+![tape image](https://github.com/AhmedMostafa3m/django_Detection_segmentation/blob/91ff02163733d64e19e0386f1e495654bdc51f0e/Images/Screenshot%202025-04-25%20114043.png)
+
+### **the original Image :**
+
+![tape image]()
+
+### **the processed Image :**
+
+![tape image]()
 
