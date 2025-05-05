@@ -224,9 +224,9 @@ Below are the code files for the Django app, including views for object detectio
 
 ### **the original Image :**
 
-![tape image](https://github.com/AhmedMostafa3m/django_Detection_segmentation/blob/a877c142637e306102d85425a28247dfb2c0175e/Images/dog.jpeg)
+![tape image](https://github.com/AhmedMostafa3m/django_Detection_segmentation/blob/1d53079ef57af65d369919c1bebbb6b89f6f7379/Images/bus.jpg)
 
 ### **the processed Image :**
 
-![tape image](https://github.com/AhmedMostafa3m/django_Detection_segmentation/blob/a877c142637e306102d85425a28247dfb2c0175e/Images/processed_dog%20(2).png)
+![tape image]()
 
