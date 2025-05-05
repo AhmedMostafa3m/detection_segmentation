@@ -228,5 +228,5 @@ Below are the code files for the Django app, including views for object detectio
 
 ### **the processed Image :**
 
-![tape image]()
+![tape image](https://github.com/AhmedMostafa3m/django_Detection_segmentation/blob/d20eec2fec86289bd877fb28ba1b9dd89e13d703/Images/processed_bus.jpg)
 
